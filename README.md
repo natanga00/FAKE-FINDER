@@ -1,2 +1,2 @@
 # FAKE-FINDER
-Trabalho Acadêmico de 
+Trabalho Acadêmico de IA
